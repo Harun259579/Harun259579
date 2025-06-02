@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS/PHP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Harun259579)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Md.Harun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Md.Harun)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harun259579&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harun259579&show_icons=true)  
 
