@@ -18,5 +18,6 @@ Skills:  REACT / JS / HTML / CSS/PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harun259579&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Harun259579)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Harun259579)
+ 
 
