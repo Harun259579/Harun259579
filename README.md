@@ -3,9 +3,9 @@
 #### Web Developer
 
 
-"Hi, I'm Md.Harun, a web developer with experience in building modern, responsive websites using HTML, CSS, JavaScript, and frameworks like React.
+"Hi, I'm Md.Harun, a web developer with experience in building modern, responsive websites using HTML, CSS, JavaScript,Php,Laravel and frameworks like React.
 
-Skills:  REACT / JS / HTML / CSS/PHP
+Skills:  REACT / JS / HTML / CSS / PHP / Laravel
 
 - 🌱 I’m currently learning PHP,JAVA Script,Laravel,React 
 - 👯 I’m looking to collaborate on GitHub 
